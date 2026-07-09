@@ -388,3 +388,21 @@ body {
   border-radius: 10px;
   font-weight: 600;
 }
+
+.project-btn {
+  display: inline-block;
+  margin-top: 18px;
+  padding: 10px 18px;
+  border-radius: 999px;
+  background: #2563eb;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 14px;
+  transition: 0.2s ease;
+}
+
+.project-btn:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
+}
