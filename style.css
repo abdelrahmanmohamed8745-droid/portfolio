@@ -379,3 +379,12 @@ body {
     font-size: 2.45rem;
   }
 }
+
+.project-link {
+  display: inline-block;
+  text-decoration: none;
+  margin-top: 12px;
+  padding: 10px 16px;
+  border-radius: 10px;
+  font-weight: 600;
+}
